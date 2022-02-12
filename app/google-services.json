@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "897887001758",
+    "project_id": "booster-d47fd",
+    "storage_bucket": "booster-d47fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897887001758:android:6ac9179b8de7f89b342f8f",
+        "android_client_info": {
+          "package_name": "com.example.youtubebooster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897887001758-nl9m722k1istfcpcbl7iblh59e07a850.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBms3kJ3PMPTtqdUsKk16qPHo4gJRvDYDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897887001758-nl9m722k1istfcpcbl7iblh59e07a850.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

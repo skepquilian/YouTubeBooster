@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_dark_mode.xml" value="0.1648148148148148" />
+        <entry key="app/src/main/res/drawable-v24/ic_edit_password.xml" value="0.175" />
+        <entry key="app/src/main/res/drawable/background_layout.xml" value="0.1005" />
+        <entry key="app/src/main/res/drawable/button_background.xml" value="0.17037037037037037" />
+        <entry key="app/src/main/res/drawable/ctr_log.xml" value="0.1005" />
+        <entry key="app/src/main/res/drawable/full_screen_progress_bar.xml" value="0.15185185185185185" />
+        <entry key="app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.17037037037037037" />
+        <entry key="app/src/main/res/drawable/ic_baseline_how_to_reg_24.xml" value="0.20615384615384616" />
+        <entry key="app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.18888888888888888" />
+        <entry key="app/src/main/res/drawable/ic_baseline_settings_phone_24.xml" value="0.18888888888888888" />
+        <entry key="app/src/main/res/drawable/ic_wave.xml" value="0.18888888888888888" />
+        <entry key="app/src/main/res/drawable/round_raduid.xml" value="0.18888888888888888" />
+        <entry key="app/src/main/res/layout/activity_home_page.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.12" />
+        <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.15" />
+        <entry key="app/src/main/res/layout/activity_try_youtubeplayer.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_verify_account_phone.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/activity_youtube_video_player.xml" value="0.14583333333333334" />
+        <entry key="app/src/main/res/layout/cardview_view.xml" value="0.15" />
+        <entry key="app/src/main/res/layout/fragment_boost_channel.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.22141823444283648" />
+        <entry key="app/src/main/res/layout/fragment_settings.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/full_screen_progressbar_icon.xml" value="0.19322916666666667" />
+        <entry key="app/src/main/res/layout/home_fragrament.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/settings.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/slide_in_left.xml" value="0.19322916666666667" />
+        <entry key="app/src/main/res/menu/bottom_nav_bar.xml" value="0.19025641025641027" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
